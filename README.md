@@ -6,4 +6,4 @@ URL=https://pds3.saramin.co.kr/webfile/download_memberfile_security.php?appmode=
 제가 맡은 부분은 로그인, 로그아웃, 회원가입, 휴대폰'이메일 인증, SNS 로그인, 비회원 주문조회, 아이디'비밀번호 찾기, 마이페이지, 상품 검색, 상품 종류별 리스트 출력, 회원수정'탈퇴, 관리자 회원 관리 등을 구현하였으며,
 css, jsp, javascript, jquery, ajax, mybatis, tiles 또한 작업하였습니다.
 
-java, python, mysql 폴더는 학원수업때 배우면서 작업했던 내용입니다.
+java, python, mysql 폴더는 학원 수업 때 배우면서 작업했던 내용입니다.
